@@ -14,4 +14,4 @@
 
 - Guided Bullet[Blue] : Follow the player.
 
-- Lightning Bullet[Yello] : It stops in place for a certain period of time.
+- Lightning Bullet[Yellow] : It stops in place for a certain period of time.
